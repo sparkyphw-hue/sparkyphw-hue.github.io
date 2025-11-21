@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Welcome!</h1>
-    <p>이 웹사이트는 GitHub Pages로 무료로 만든 사이트입니다!</p>
+    <p>이 zzzzzzz!</p>
 </body>
 </html>
